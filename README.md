@@ -1,2 +1,2 @@
 # Aptech-E-Project-IceCram
-Icream Website
+Create a folder named E_Project and than extract e-project file and  you are good to go !
